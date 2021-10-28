@@ -1,0 +1,16 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 17" width="17" height="17">
+	<title>login</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #225dd9 } 
+	</style>
+	<g id="login">
+		<g id="google-plus">
+			<g id="Group 26">
+				<g id="Group 25">
+					<path id="Path 40" class="shp0" d="M16.68 7.43L9.19 7.43L9.19 9.93L13.76 9.93C13.08 12.1 11.05 13.67 8.66 13.67C5.7 13.67 3.31 11.28 3.31 8.32C3.31 5.37 5.7 2.97 8.66 2.97C10.14 2.97 11.49 3.58 12.46 4.56L14.27 2.59C12.82 1.17 10.84 0.3 8.66 0.3C4.22 0.3 0.63 3.89 0.63 8.32C0.63 12.75 4.22 16.35 8.66 16.35C12.54 16.35 15.94 13.59 16.68 9.93L16.68 7.43L16.68 7.43L16.68 7.43Z" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

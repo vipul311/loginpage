@@ -1,0 +1,80 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    height: 811px;
+    width: 375px;
+    justify-content: center;
+    margin: 0 auto;
+    border: 1px solid gray;
+}
+.main .logo img{
+    margin-left: 30px;
+    margin-top: 25px;
+}
+.mainimage img{
+    width: 286px;
+    height: 277px;
+    margin: 100px 40px 20px;
+}
+.para{
+    text-align: center;
+}
+.para h1{
+    font-size: 39px;
+color: #000000;
+font-weight: bold;
+font-family: "Helvetica Neue";
+}
+.para p{
+    text-transform: capitalize;
+    font-size: 17px;
+line-height: 26px;
+color: #818593;
+font-weight: 500;
+font-family: "Helvetica Neue";
+text-align: center;
+}
+.buttons{
+    margin-top: 36px;
+}
+.buttons .button1{
+    color: #ffffff;
+    font-weight: 500;
+    font-family: "Helvetica Neue";
+    margin-left: 32px;
+    height: 53px;
+    width: 150px;
+    font-size: 24px;
+    border-radius: 35px;
+    background-color: #2765D9;
+    }
+    .buttons .button2{
+        font-size: 24px;
+        color: #ffffff;
+        font-weight: 500;
+        font-family: "Helvetica Neue";
+        margin-left: 32px;
+        height: 53px;
+        width: 150px;
+        border-radius: 35px;
+        background-color: #2765D9;
+    }
+    .lastsec p{
+        margin-top: 48px;
+        font-size: 17px;
+        text-align: center;
+    color: #818593;
+    font-weight: 500;
+    font-family: "Helvetica Neue";
+}
+.footer{
+        margin-left: 120px;
+     }
+.footer img{
+    padding: 10px;
+    border: 2px solid #2F67DB;
+    border-radius: 50%;
+}
+
